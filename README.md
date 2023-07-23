@@ -2,7 +2,7 @@
 
 ## :man_technologist: About me
 
-- 🎓 &nbsp; I'm currently studying **Computer Engineering** at Selcuk University.
+- 🎓 &nbsp; I graduated from the Department of Computer Engineering at Selçuk University.
 - 🌱 &nbsp; I'm passionate about exploring new technologies.
 - 🔭 &nbsp; I’m currently working on **Full Stack Web Development**
 - ✍️ &nbsp; I’m currently learning more about and studying: **NextJS, GraphQL, Prisma, Container Technologies** and so on.

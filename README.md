@@ -11,7 +11,7 @@
 
 - 📫 Connect with me via email bilal.gumus@yahoo.com
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/BilalGumus/)
-- ✨ For more information visit my [Personal Website](https://www.bilalgumus.me)
+- ✨ For more information visit my [Personal Website](https://www.bilalgumus.co)
 
 ## 🛠 Tech Stack
 
